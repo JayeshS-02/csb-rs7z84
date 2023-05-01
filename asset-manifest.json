@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://jayeshs-02.github.io/csb-rs7z84/static/css/main.659ff6ea.css",
+    "main.js": "https://jayeshs-02.github.io/csb-rs7z84/static/js/main.49396d70.js",
+    "static/media/img1.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/img1.0ae1546dc87f7705d0f3.jpg",
+    "static/media/italy.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/italy.ee8539c141e7c4f7fd21.jpg",
+    "static/media/goa1.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/goa1.656e61bbd1747674635b.jpg",
+    "static/media/singapore.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/singapore.ba95e2a0ebda134a0a96.jpg",
+    "static/media/anadman.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/anadman.7fe7b444f30ad6ad6575.jpg",
+    "static/media/anadman2.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/anadman2.33f8e4c55a55c7d8c703.jpg",
+    "static/media/kerala1.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/kerala1.c5302244f01db218c65b.jpg",
+    "static/media/goa2.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/goa2.0becc20aca2f10ec82b4.jpg",
+    "static/media/about.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/about.ea01f55a0afe74d4df0b.jpg",
+    "static/media/kerala2.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/kerala2.4250b8b6aee3969ca11c.jpg",
+    "static/media/Contact2.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/Contact2.1f0d3e5d96661b326ce3.jpg",
+    "static/media/service2.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/service2.563ab0156369a526f651.jpg",
+    "static/media/ladakhbike.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/ladakhbike.4a0b4ecd5d71d69e77cf.jpg",
+    "static/media/indon1.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/indon1.a364eab5f634cf65a466.jpg",
+    "static/media/ladakhtrek.jpg": "https://jayeshs-02.github.io/csb-rs7z84/static/media/ladakhtrek.e279b8c3827d88dd1e7f.jpg",
+    "index.html": "https://jayeshs-02.github.io/csb-rs7z84/index.html",
+    "main.659ff6ea.css.map": "https://jayeshs-02.github.io/csb-rs7z84/static/css/main.659ff6ea.css.map",
+    "main.49396d70.js.map": "https://jayeshs-02.github.io/csb-rs7z84/static/js/main.49396d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659ff6ea.css",
+    "static/js/main.49396d70.js"
+  ]
+}
